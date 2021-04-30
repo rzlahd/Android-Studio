@@ -1,20 +1,20 @@
 {
 	"Kontak" : [
 	    {
-	        "Alamat": "Bogor, Barang siang",
-	        "Email": "Emma@devil.com",
-	        "Jenis_kelamin": "perempuan",
+	        "id": "B001",
 	        "Nama": "Emma",
+	        "Email": "Emma@devil.com",
+	        "Alamat": "Bogor, Barang siang",
+	        "Jenis_kelamin": "perempuan",
 	        "Phone": "+8572222222",
-	        "id": 1
 	    },
 	    {
-	        "Alamat": "cikarang",
-	        "Email": "ido@devil.vom",
-	        "Jenis_kelamin": "laki-laki",
+	        "id": "B002",
 	        "Nama": "Ido",
+	        "Email": "ido@devil.vom",
+	        "Alamat": "cikarang",
+	        "Jenis_kelamin": "laki-laki",
 	        "Phone": "+85900002",
-	        "id": 2
 	    }
     ]
 }
