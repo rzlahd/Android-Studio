@@ -2,7 +2,7 @@
 	"Kontak" : [
 	    {
 	        "id": "B001",
-	        "Nama": "Emma",
+	        "Nama": "Emma angle",
 	        "Email": "Emma@devil.com",
 	        "Alamat": "Bogor, Barang siang",
 	        "Jenis_kelamin": "perempuan",
@@ -14,7 +14,7 @@
 	    },
 	    {
 	        "id": "B002",
-	        "Nama": "Ido",
+	        "Nama": "evil",
 	        "Email": "ido@devil.vom",
 	        "Alamat": "cikarang",
 	        "Jenis_kelamin": "laki-laki",
