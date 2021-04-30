@@ -6,7 +6,11 @@
 	        "Email": "Emma@devil.com",
 	        "Alamat": "Bogor, Barang siang",
 	        "Jenis_kelamin": "perempuan",
-	        "Phone": "+8572222222",
+	        "phone": {
+                    "mobile": "+85 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
 	    },
 	    {
 	        "id": "B002",
@@ -14,7 +18,11 @@
 	        "Email": "ido@devil.vom",
 	        "Alamat": "cikarang",
 	        "Jenis_kelamin": "laki-laki",
-	        "Phone": "+85900002",
+	        "phone": {
+                    "mobile": "+85 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
 	    }
     ]
 }
