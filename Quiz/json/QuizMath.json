@@ -2,25 +2,25 @@
   "Mathquestion": [
       {
         "ImageQuestion":  "http:2",
-        "Question": "load1",
-        "Option1": "",
-        "Option2": "",
-        "Option3": "",
-        "Option4": "",
-        "Answer_nr":  "",
-        "Difficulty": "",
-        "Category_id":  ""
+        "Question": "2x2=?",
+        "Option1": "4",
+        "Option2": "8",
+        "Option3": "9",
+        "Option4": "7",
+        "Answer_nr":  "1",
+        "Difficulty": "Mudah",
+        "Category_id":  "1"
       },
       {
         "ImageQuestion":  "http:3",
-        "Question": "load2",
-        "Option1": "",
-        "Option2": "",
-        "Option3": "",
-        "Option4": "",
+        "Question": "4x4=?",
+        "Option1": "26",
+        "Option2": "16",
+        "Option3": "17",
+        "Option4": "35",
         "Answer_nr":  "",
-        "Difficulty": "",
-        "Category_id":  ""
+        "Difficulty": "Mudah",
+        "Category_id":  "1"
       }
   ]
 }
