@@ -22,5 +22,16 @@
         "Difficulty": "Mudah",
         "Category_id":  "1"
       }
+      {
+        "ImageQuestion":  "http:3",
+        "Question": "5x5=?",
+        "Option1": "25",
+        "Option2": "16",
+        "Option3": "12",
+        "Option4": "45",
+        "Answer_nr":  "1",
+        "Difficulty": "Mudah",
+        "Category_id":  "1"
+      }
   ]
 }
