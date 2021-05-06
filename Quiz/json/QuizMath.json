@@ -1,7 +1,7 @@
 {
   "Mathquestion": [
       {
-        "ImageQuestion":  "http:2",
+        "ImageQuestion":  "https://raw.githubusercontent.com/kelincinegla/85156-v8/master/mathchalkboard.png",
         "Question": "2x2=?",
         "Option1": "4",
         "Option2": "8",
@@ -12,7 +12,7 @@
         "Category_id":  "1"
       },
       {
-        "ImageQuestion":  "http:3",
+        "ImageQuestion":  "https://raw.githubusercontent.com/kelincinegla/85156-v8/master/mathchalkboard.png",
         "Question": "4x4=?",
         "Option1": "26",
         "Option2": "16",
@@ -23,13 +23,24 @@
         "Category_id":  "1"
       },
       {
-        "ImageQuestion":  "http:3",
+        "ImageQuestion":  "https://raw.githubusercontent.com/kelincinegla/85156-v8/master/mathchalkboard.png",
         "Question": "5x5=?",
         "Option1": "25",
         "Option2": "16",
         "Option3": "12",
         "Option4": "45",
         "Answer_nr":  "1",
+        "Difficulty": "Mudah",
+        "Category_id":  "1"
+      },
+      {
+        "ImageQuestion":  "https://raw.githubusercontent.com/kelincinegla/85156-v8/master/mathchalkboard.png",
+        "Question": "5x5+40=?",
+        "Option1": "67",
+        "Option2": "78",
+        "Option3": "65",
+        "Option4": "56",
+        "Answer_nr":  "3",
         "Difficulty": "Mudah",
         "Category_id":  "1"
       }
