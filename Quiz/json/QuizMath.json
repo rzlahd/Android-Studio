@@ -65,6 +65,34 @@
 			"Answer_nr":  "3",
 			"Difficulty": "Mudah",
 			"Category_id":  "1"
+		},
+
+
+		{
+			"ImageQuestion":  "https://raw.githubusercontent.com/kelincinegla/85156-v8/master/mathchalkboard.png",
+			"Question": "Pengertian Kimia adalah?",
+			"Option1": "ilmu alam yang mempelajari kehidupan dan organisme hidup, termasuk struktur fisik, proses kimiawi, interaksi molekuler, mekanisme fisiologis, perkembangan dan evolusi mereka",
+			"Option2": "disiplin ilmu yang terlibat dengan unsur dan senyawa yang terdiri dari atom, molekul, dan ion: komposisi, struktur, sifat, perilaku, dan perubahan yang mereka alami selama reaksi dengan zat lain.",
+			"Option3": "ilmu membahas topik seperti bagaimana atom dan molekul berinteraksi melalui ikatan kimia untuk membentuk senyawa kimia baru.",
+			"Option4": "Kata kimia berasal dari modifikasi kata alkimia, yang mengacu pada serangkaian praktik sebelumnya yang mencakup unsur-unsur kimia, metalurgi, filsafat",
+			"Answer_nr":  "2",
+			"Difficulty": "Mudah",
+			"Category_id":  "2"
+		},
+
+
+		{
+			"ImageQuestion":  "https://raw.githubusercontent.com/kelincinegla/85156-v8/master/mathchalkboard.png",
+			"Question": "Pengertian Fisika adalah?",
+			"Option1": "ilmu alam yang mempelajari materi, gerak dan perilakunya melalui ruang dan waktu, dan entitas terkait energi dan gaya",
+			"Option2": "disiplin ilmu yang terlibat dengan unsur dan senyawa yang terdiri dari atom, molekul, dan ion: komposisi, struktur, sifat, perilaku, dan perubahan yang mereka alami selama reaksi dengan zat lain.",
+			"Option3": "salah satu disiplin ilmu tertua dan, melalui masuknya astronomi, mungkin yang tertua. Selama lebih dari dua milenium terakhir, fisika, kimia, biologi, dan cabang tertentu dari matematika adalah bagian dari filsafat alam, tetapi selama Revolusi Ilmiah di abad ke-17, ilmu alam ini muncul sebagai upaya penelitian unik dalam hak mereka sendiri.",
+			"Option4": "Kata fisika berasal dari modifikasi kata alkimia, yang mengacu pada serangkaian praktik sebelumnya yang mencakup unsur-unsur kimia, metalurgi, filsafat",
+			"Answer_nr":  "1",
+			"Difficulty": "Mudah",
+			"Category_id":  "3"
 		}
+
+
 	]
 }
